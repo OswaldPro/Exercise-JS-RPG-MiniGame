@@ -27,7 +27,7 @@ Ce projet est un exercice d'apprentissage du JavaScript sous la forme d'un mini 
 
 1. Cloner le projet :
    ```bash
-   git clone https://github.com/votre-repo/mini-rpg.git
+   git clone https://github.com/OswaldPro/Exercise-JS-RPG-MiniGame.git
    ```
 2. Ouvrir le fichier `index.html` dans un navigateur ou exécuter le script JS dans un environnement compatible.
 
